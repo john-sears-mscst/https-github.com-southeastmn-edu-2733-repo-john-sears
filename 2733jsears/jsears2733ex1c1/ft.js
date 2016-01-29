@@ -1,3 +1,4 @@
+
 /*    JavaScript 6th Edition
  *    Chapter 2
  *    Chapter case
