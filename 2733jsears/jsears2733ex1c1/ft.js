@@ -5,7 +5,7 @@
  *    Fan Trick Fine Art Photography
  *    Variables and functions
  *    Author: John Sears
- *    Date:   01/22/2016
+ *    Date:   01/29/2016
 
  *    Filename: ft.js
  */
